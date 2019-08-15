@@ -19,7 +19,7 @@ These files let you play an only mildly alderated Sid Meier's Alpha Centauri in 
 
 There are two folders, thinker and yitzi for use with the unofficial patches with those names.
 
-The latest development version of [Thinker][thinker] packages this mod, so you do not need to download it separately if you are using that. Check the thinker project page for how to enable it. If installing manually, you should know that Thinker expects the files in a special `ac_mod` directory and [Yitzi's patch][yitzi] expects the files to replace the existing files with the same name, so make a backup in that case.
+The latest development version of [Thinker][thinker] packages and slightly modifies this mod, so you do not need to download it separately if you are using that. Check the thinker project page for how to enable it. If installing manually, you should know that Thinker expects the files in a special `ac_mod` directory and [Yitzi's patch][yitzi] expects the files to replace the existing files with the same name, so make a backup in that case.
 
 Check the [releases](https://github.com/DrazharLn/smac-in-smax/releases) for zips for each you can just extract into your SMAC folder.
 
