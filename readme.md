@@ -15,19 +15,39 @@ Summary of changes:
 * Yitzi/Thinker: Unity Wreck and Fossil Ridge landmarks will not appear on randomly generated maps
 * Yitzi/Thinker: SMAC Main menu screen and colours used
 
-These files let you play unalderated Sid Meier's Alpha Centauri in the Sid Meier's Alien Crossfire engine. You might want to do this to benefit from various unofficial patches for Alien Crossfire.
+These files let you play an only mildly alderated Sid Meier's Alpha Centauri in the Sid Meier's Alien Crossfire engine. You might want to do this to benefit from various unofficial patches for Alien Crossfire.
 
 There are two folders, thinker and yitzi for use with the unofficial patches with those names.
 
-The latest development version of [Thinker][thinker] packages this mod, so you do not need to download it separately if you are using that. Check the thinker project page for details. Thinker expects the files in a special `ac_mod` directory. [Yitzi's patch][yitzi] expects them to replace the existing files with the same name, so make a backup in that case.
+The latest development version of [Thinker][thinker] packages this mod, so you do not need to download it separately if you are using that. Check the thinker project page for how to enable it. Thinker expects the files in a special `ac_mod` directory. [Yitzi's patch][yitzi] expects them to replace the existing files with the same name, so make a backup in that case.
 
-Check the releases for zips for each you can just extract into your SMAC folder.
+Check the [releases](https://github.com/DrazharLn/smac-in-smax/releases) for zips for each you can just extract into your SMAC folder.
 
 [Original release thread](http://alphacentauri2.info/index.php?topic=17869.0).
 
+## More SMACX!
+
+You may also be interested in:
+
+- [The Alphacentauri2.info Wiki][ac2wiki]
+- [The Alphacentauri2.info Forum][ac2forum]
+- [Plotinus Redux's PRACX UI mod][pracx]
+- [Scient's Unofficial Patch][scient]
+- [Thinker][thinker]
+- [Yitzi's patch][yitzi]
+- [bvanery's SMACX AI Growth mod][aigrowthmod]
+
+[ac2wiki]: http://alphacentauri2.info/wiki/
+[ac2forum]: http://alphacentauri2.info/index.php?action=community
+[pracx]: https://github.com/drazharln/pracx
+[scient]: https://github.com/drazharln/scient-unofficial-smacx-patch
+[thinker]: https://github.com/induktio/thinker
+[yitzi]: http://alphacentauri2.info/wiki/Yitzi%27s_patch
+[aigrowthmod]: http://alphacentauri2.info/index.php?topic=20959.0
+
 ## History
 
-In April 2014, diessa and BUncle kicked off talks about making a SMAC in SMAX project, and the community came together collected lists of differences between the games. Ford_Prefect made a mod manager and I did all the modding we could do without .exe support. In early 2015, Yitzi released version 3.4 of his patch, including an expansion features code that allows us to turn on and off precisely the bits of the game engine we needed to.
+In April 2014, diessa and BUncle kicked off talks about making a SMAC in SMAX project, and the community came together and collected lists of differences between the games. Ford_Prefect made a mod manager and I did all the modding we could do without .exe support. In early 2015, Yitzi released version 3.4 of his patch, including an expansion features code that allows us to turn on and off precisely the bits of the game engine we needed to.
 
 For my share of the changes, I thank vimdiff.
 
@@ -35,6 +55,3 @@ Original threads:
 
 - [SMAC within SMAX](http://alphacentauri2.info/index.php?topic=8413.0)
 - [Comprehensive SMAC->SMAX changelist](http://alphacentauri2.info/index.php?topic=8428.0)
-
-[thinker]: https://github.com/induktio/thinker
-[yitzi]: http://alphacentauri2.info/wiki/Yitzi%27s_patch
